@@ -8,5 +8,7 @@ This a simple project where i created a clone of amazon prime login page using o
 <li>CSS</li>
 </ul>
 <h3>How to run the project</h3><br>
-Running the project is easy.The user only have to scroll up and down .<br>
+open vscode and load all the files
+then open the index.html file using any browser,preferably Chrome
+
 
