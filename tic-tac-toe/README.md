@@ -13,23 +13,13 @@
   <li>JavaScript</li>
 </ul>
 
-#### Steps to Use:
 
----
+Steps to use: 
 
-- Download or clone the repository
+Download or clone the repository
 
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
+git clone https://github.com/SukethKsrivatsan/webdevprojects.git
+Go to the directory
+Run the index.html file
 
-- Go to the directory
-- Run the index.html file
-- Start Playing!!
-
-<h3> ScreenShots </h3> 
-<img width="889" alt="tictactoe-light" src="https://user-images.githubusercontent.com/64218887/124368601-4070f000-dc80-11eb-8d0d-4c7894491af6.png">
-<br>
-<img width="878" alt="tictactoe-dark" src="https://user-images.githubusercontent.com/64218887/124368600-3f3fc300-dc80-11eb-979c-a5e802dc344a.png">
-<br>
 
