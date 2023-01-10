@@ -1,7 +1,5 @@
 # Google Clone
 
-*An amazing project to get started with. This is a google clone which also lets you search information, looks exactly same as Google.*
-
 
 > Used Technologies:
 - HTML
@@ -10,16 +8,14 @@
 
 
 
-### Steps to use: 
+Steps to use: 
 
-- Download or clone the repositorY
-`
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-`
+Download or clone the repository
 
-- Go to the directory
-- Run the index.html file
-- Check out the amazing project!
+git clone https://github.com/SukethKsrivatsan/webdevprojects.git
+Go to the directory
+Run the index.html file
+
 
 
 
