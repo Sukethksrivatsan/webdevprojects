@@ -17,7 +17,5 @@ An easy 2048 Game on website where you can have fun!!
 
 # Credits
 I coded this game by following the tutorial from [Code with Ania Kubów](https://www.youtube.com/watch?v=aDn2g8XfSMc). Check it out!
+This helped compile and collate the three languages html,css and javascript and helped me recap my entire web development course
 
-# Screenshot
-
-![screenshot](https://github.com/Gyynnn/Web-dev-mini-projects/blob/2048game/2048%20Game/screenshot.PNG)
